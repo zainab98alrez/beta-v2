@@ -6,6 +6,23 @@
 
 <?php include 'include/menu.php'; ?>
 
+<!-- section one -->
+<div class="ftco-blocks-cover-1 mb-0 mt-4">
+    <div class="ftco-cover-1 overlay" style="background-image: url('images/hero_1.jpg')">
+      <div class="container">
+        <div class="row py-5 align-items-center justify-content-center text-center">
+          <div class="col-lg-6 my-5 py-5">
+            <h1 class="text-black">BETA &amp; LOGISTICS </h1>
+            <p class="mb-5 text-black">
+                We pride ourselves on providing the best transport and shipping services available all over the world.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- END section one -->
+
 <!-- news section -->
   <div class="site-section bg-light">
       <div class="container">

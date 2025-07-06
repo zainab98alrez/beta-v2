@@ -96,17 +96,3 @@
 </div>
 <!-- end nav bar -->
 
-<!-- section one -->
-<div class="ftco-blocks-cover-1 mb-0 mt-4">
-    <div class="ftco-cover-1 overlay" style="background-image: url('images/hero_1.jpg')">
-      <div class="container">
-        <div class="row py-5 align-items-center justify-content-center text-center">
-          <div class="col-lg-6 my-5 py-5">
-            <h1 class="text-black">Transportations &amp; Logistics</h1>
-            <p class="mb-5 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus dolorem eius eligendi esse quod?</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-<!-- END section one -->
