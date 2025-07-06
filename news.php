@@ -39,7 +39,6 @@
         <div class="col-md-6 col-lg-4 mb-4">
           <a href="/news">
             <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -54,7 +53,6 @@
         <div class="col-md-6 col-lg-4 mb-4">
           <a href="/news">
             <div class="service-39381">
-              <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -69,7 +67,6 @@
         <div class="col-md-6 col-lg-4 mb-4">
            <a href="/news">
               <div class="service-39381">
-                <img src="images/home/2.webp" alt="Image" class="img-fluid">
                 <div class="p-4">
                     <h3><a href="#">New event in Croatia Columbia</a></h3>
                     <div class="d-flex">
@@ -86,7 +83,6 @@
         <div class="col-md-6 col-lg-4 mb-4">
           <a href="/news">
             <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -101,7 +97,6 @@
         <div class="col-md-6 col-lg-4 mb-4">
           <a href="/news">
             <div class="service-39381">
-              <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -116,7 +111,6 @@
         <div class="col-md-6 col-lg-4 mb-4">
            <a href="/news">
               <div class="service-39381">
-                <img src="images/home/2.webp" alt="Image" class="img-fluid">
                 <div class="p-4">
                     <h3><a href="#">New event in Croatia Columbia</a></h3>
                     <div class="d-flex">
