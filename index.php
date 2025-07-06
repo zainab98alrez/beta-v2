@@ -193,12 +193,11 @@
           </div>-->
 
       <div class="text-center mt-3">
-        <p><a href="/service" class="text-center btn-beta py-3 px-4">Learn More</a></p>
+        <p><a href="/services" class="text-center btn-beta py-3 px-4">Learn More</a></p>
       </div>
     </div>
   </div>
   <!-- end services -->
-
 
   <!-- WHY CHOOSING US section -->
   <div class="site-section bg-image bg-golden">
