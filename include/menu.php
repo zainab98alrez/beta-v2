@@ -27,8 +27,8 @@
             <span class="icon-location-arrow text-primary"></span>
           </div>
           <div class="text">
-            <span class="h4 d-block">San Francisco</span>
-            <span class="caption-text">Mountain View, Fake st., CA</span>
+            <span class="h4 d-block">UAE Dubai</span>
+            <span class="caption-text">Jafza - UA-03</span>
           </div>
         </div>
       </div>
@@ -38,7 +38,7 @@
             <span class="icon-phone text-primary"></span>
           </div>
           <div class="text">
-            <span class="h4 d-block">000 209 392 312</span>
+            <span class="h4 d-block"><a class="text-dark" href="tel:+971503440101">+971503440101</a></span>
             <span class="caption-text">Toll free</span>
           </div>
         </div>
@@ -49,8 +49,8 @@
             <span class="icon-envelope text-primary"></span>
           </div>
           <div class="text">
-            <span class="h4 d-block">info@beta.com</span>
-            <span class="caption-text">Gournadi, 1230 Bariasl</span>
+            <span class="h4 d-block"><a class="text-dark" href="mailto:info@betafzco.com">info@betafzco.com</a></span>
+            <span class="caption-text">BETA LOGISTICS</span>
           </div>
         </div>
       </div>
