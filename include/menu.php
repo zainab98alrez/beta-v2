@@ -16,7 +16,7 @@
   <div class="container">
     <div class="row align-items-center">
       <div class="col-6 col-lg-3">
-        <a href="index.html">
+        <a href="ظ">
           <img src="images/logo-1.png" alt="Image" class="img-fluid">
           <!-- <strong>Water</strong>Boat -->
         </a>
@@ -49,7 +49,7 @@
             <span class="icon-envelope text-primary"></span>
           </div>
           <div class="text">
-            <span class="h4 d-block">info@gmail.com</span>
+            <span class="h4 d-block">info@beta.com</span>
             <span class="caption-text">Gournadi, 1230 Bariasl</span>
           </div>
         </div>
@@ -81,12 +81,18 @@
               <a href="/services" class="nav-link text-left">Services</a>
             </li>
             <li>
+              <a href="/supply-chain" class="nav-link text-left">Supply Chain</a>
+            </li>
+            <li>
                 <a href="/news" class="nav-link text-left">News</a>
             </li>
             <li><a href="/blog" class="nav-link text-left">Blog</a></li>
             <li>
                 <a href="/contact" class="nav-link text-left">Contact</a>
-              </li>
+            </li>
+            <li>
+              <a href="/quote" class="nav-link text-left">Get a Quote</a>
+            </li>
           </ul>                                                                                                                                                                                                                                                                                          </ul>
         </nav>
       </div>
