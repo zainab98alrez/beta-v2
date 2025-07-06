@@ -7,7 +7,6 @@
   <!-- loader -->
   <?php include 'include/loader.php'; ?>
 
-  <?php include 'include/menu.php'; ?>
 
 <?php include 'include/menu.php'; ?>
 
