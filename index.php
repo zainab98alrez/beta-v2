@@ -15,8 +15,8 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
-          <h1>BETA &amp; LOGISTICS </h1>
-          <p class="mb-2">
+          <h1 class="mt-5 pt-3">BETA &amp; LOGISTICS </h1>
+          <p class="mb-3">
             We pride ourselves on providing the best transport and shipping services available all over the world.
           </p>
           <p><a href="/contact" class="btn-beta btn btn-primary py-3 px-5">Contact</a></p>

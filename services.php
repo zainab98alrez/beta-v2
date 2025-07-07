@@ -34,8 +34,10 @@
             <span class="wrap-icon-39293">
               <span class="flaticon-yacht"></span>
             </span>
-            <h3>Luxuries Yacht</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+            <h3 class="py-3">Air Freight</h3>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
+                point to any destination in the world at very competitive rates.</p>
+                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-5">
@@ -43,8 +45,10 @@
             <span class="wrap-icon-39293">
               <span class="flaticon-shield"></span>
             </span>
-            <h3>30 Years of Experience</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+            <h3 class="py-3">Charter Services</h3>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
+                point to any destination in the world at very competitive rates.</p>
+                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-5">
@@ -52,8 +56,10 @@
             <span class="wrap-icon-39293">
               <span class="flaticon-captain"></span>
             </span>
-            <h3>Good Captain</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+            <h3 class="py-3">Sea Freight</h3>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
+                point to any destination in the world at very competitive rates.</p>
+                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
 
@@ -62,8 +68,10 @@
             <span class="wrap-icon-39293">
               <span class="flaticon-devices"></span>
             </span>
-            <h3>Luxuries Yacht</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+            <h3 class="py-3">Road Freight </h3>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
+                point to any destination in the world at very competitive rates.</p>
+                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-5">
@@ -71,17 +79,10 @@
             <span class="wrap-icon-39293">
               <span class="flaticon-badge"></span>
             </span>
-            <h3>30 Years of Experience</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 mb-5">
-          <div class="service-29283">
-            <span class="wrap-icon-39293">
-              <span class="flaticon-captain-1"></span>
-            </span>
-            <h3>Good Captain</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus ipsa, ad ratione quos distinctio unde.</p>
+            <h3 class="py-3">Pack- aging</h3>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
+                point to any destination in the world at very competitive rates.</p>
+                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
       </div>
