@@ -3,29 +3,28 @@
 </head>
 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
-  
+
   <!-- loader -->
   <?php include 'include/loader.php'; ?>
 
 
-<?php include 'include/menu.php'; ?>
+  <?php include 'include/menu.php'; ?>
 
-<!-- section one -->
-<div class="ftco-blocks-cover-1 mb-0 mt-4">
-    <div class="ftco-cover-1 overlay" style="background-image: url('images/hero_1.jpg')">
-      <div class="container">
-        <div class="row py-5 align-items-center justify-content-center text-center">
-          <div class="col-lg-6 my-5 py-5">
-            <h1 class="text-black">BETA &amp; LOGISTICS </h1>
-            <p class="mb-5 text-black">
-                We pride ourselves on providing the best transport and shipping services available all over the world.
-            </p>
-          </div>
+  <!-- section one -->
+  <div class="intro-section site-blocks-cover innerpage d-flex justify-content-center align-items-center" style="background-image: url('images/home/1.jpg');">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
+          <h1>BETA &amp; LOGISTICS </h1>
+          <p class="mb-2">
+            We pride ourselves on providing the best transport and shipping services available all over the world.
+          </p>
+          <p><a href="/contact" class="btn-beta btn btn-primary py-3 px-5">Contact</a></p>
         </div>
       </div>
     </div>
   </div>
-<!-- END section one -->
+  <!-- END section one -->
 
   <!-- news section -->
   <div class="site-section bg-light">
@@ -37,10 +36,9 @@
         </div>
       </div>
       <div class="row">
-        <a href="/news">
-          <div class="col-md-6 col-lg-4 mb-4">
+        <div class="col-md-6 col-lg-4 mb-4">
+          <a href="/news">
             <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -50,12 +48,11 @@
                 </div>
               </div>
             </div>
-          </div>
-        </a>
-        <a href="/news">
-          <div class="col-md-6 col-lg-4 mb-4">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-4">
+          <a href="/news">
             <div class="service-39381">
-              <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -65,12 +62,11 @@
                 </div>
               </div>
             </div>
-          </div>
-        </a>
-        <a href="/news">
-          <div class="col-md-6 col-lg-4 mb-4">
+          </a>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-4">
+          <a href="/news">
             <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
               <div class="p-4">
                 <h3><a href="#">New event in Croatia Columbia</a></h3>
                 <div class="d-flex">
@@ -80,8 +76,11 @@
                 </div>
               </div>
             </div>
-          </div>
-        </a>
+          </a>
+        </div>
+        <div class="col-lg-12 text-center pt-5">
+           <p><a href="/news" class="btn-beta py-3 px-4">See all news</a></p>
+        </div>
       </div>
     </div>
   </div>
