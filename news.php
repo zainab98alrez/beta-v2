@@ -8,21 +8,19 @@
   <?php include 'include/loader.php'; ?>
   <?php include 'include/menu.php'; ?>
 
-  <div class="intro-section site-blocks-cover innerpage d-flex justify-content-center align-items-center" style="background-image: url('images/home/1.jpg');">
+  <div class="intro-section site-blocks-cover innerpage d-flex justify-content-center align-items-center" style="background-image: url('/images/home/2.webp');">
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
-          <h1>News BETA Logistics</h1>
-          <p>
-            BETA LOGISTICS SPECIALIZES IN PROVIDING EXPERT INTERNATIONAL OCEAN FREIGHT FORWARDING
-            SERVICES TO COMPANIES LARGE AND SMALL.
+          <h1>News</h1>
+          <p class="text-white text-center">
+            <a href="/">Home</a>
+            <span class="mx-2">/</span>
+            <span>News</span>
           </p>
-          <p><a href="/contact" class="btn-beta btn btn-primary py-3 px-5">Contact</a></p>
         </div>
       </div>
     </div>
-  </div>
-
   </div>
 
 
@@ -37,96 +35,76 @@
       </div>
       <div class="row">
         <div class="col-md-6 col-lg-4 mb-4">
-          <a href="/news">
-            <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
-              <div class="p-4">
-                <h3><a href="#">New event in Croatia Columbia</a></h3>
-                <div class="d-flex">
-                  <div class="mr-auto">
-                    <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </div>
+          <div class="service-39381">
+            <div class="p-4">
+              <h3 class="text-dark">New event in Croatia Columbia</h3>
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
-          <a href="/news">
-            <div class="service-39381">
-              <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
-              <div class="p-4">
-                <h3><a href="#">New event in Croatia Columbia</a></h3>
-                <div class="d-flex">
-                  <div class="mr-auto">
-                    <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </div>
+          <div class="service-39381">
+            <div class="p-4">
+              <h3 class="text-dark">New event in Croatia Columbia</h3>
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
-          <a href="/news">
-            <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
-              <div class="p-4">
-                <h3><a href="#">New event in Croatia Columbia</a></h3>
-                <div class="d-flex">
-                  <div class="mr-auto">
-                    <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </div>
+          <div class="service-39381">
+            <div class="p-4">
+              <h3 class="text-dark">New event in Croatia Columbia</h3>
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
               </div>
             </div>
-          </a>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-lg-4 mb-4">
-          <a href="/news">
-            <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
-              <div class="p-4">
-                <h3><a href="#">New event in Croatia Columbia</a></h3>
-                <div class="d-flex">
-                  <div class="mr-auto">
-                    <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </a>
+          </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
-          <a href="/news">
-            <div class="service-39381">
-              <img src="images/hero_1.jpg" alt="Image" class="img-fluid">
-              <div class="p-4">
-                <h3><a href="#">New event in Croatia Columbia</a></h3>
-                <div class="d-flex">
-                  <div class="mr-auto">
-                    <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </div>
+          <div class="service-39381">
+            <div class="p-4">
+              <h3 class="text-dark">New event in Croatia Columbia</h3>
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
               </div>
             </div>
-          </a>
+          </div>
         </div>
         <div class="col-md-6 col-lg-4 mb-4">
-          <a href="/news">
-            <div class="service-39381">
-              <img src="images/home/2.webp" alt="Image" class="img-fluid">
-              <div class="p-4">
-                <h3><a href="#">New event in Croatia Columbia</a></h3>
-                <div class="d-flex">
-                  <div class="mr-auto">
-                    <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                  </div>
+          <div class="service-39381">
+            <div class="p-4">
+              <h3 class="text-dark">New event in Croatia Columbia</h3>
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                 </div>
               </div>
             </div>
-          </a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mb-4">
+          <div class="service-39381">
+            <div class="p-4">
+              <h3 class="text-dark">New event in Croatia Columbia</h3>
+              <div class="d-flex">
+                <div class="mr-auto">
+                  <p class="mb-1 text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

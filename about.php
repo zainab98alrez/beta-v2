@@ -8,19 +8,21 @@
 
   <?php include 'include/menu.php'; ?>
     
-    
-      <div class="intro-section" style="background-image: url('images/home/1.jpg');">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
-              <h1>About BETA Logistics</h1>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, in distinctio nostrum laborum sed quisquam voluptate facilis non.</p>
-              <p><a href="/contact" class="btn-beta btn btn-primary py-3 px-5">Contact</a></p>
-            </div>
+    <div class="intro-section site-blocks-cover innerpage d-flex justify-content-center align-items-center" style="background-image: url('images/home/1.jpg');">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
+            <h1>About Us</h1>
+            <p class="text-white text-center">
+              <a href="/">Home</a>
+              <span class="mx-2">/</span>
+              <span>About us</span>
+            </p>
           </div>
         </div>
       </div>
-
+    </div>
+    
       <div class="site-section">
         <div class="container">
             <div class="row">

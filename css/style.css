@@ -2181,3 +2181,9 @@ h5,
 .footer a {
   color: #000;
 }
+
+.home-banner {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

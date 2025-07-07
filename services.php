@@ -13,12 +13,12 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
-          <h1>Services BETA Logistics</h1>
-          <p>
-            BETA LOGISTICS SPECIALIZES IN PROVIDING EXPERT INTERNATIONAL OCEAN FREIGHT FORWARDING
-            SERVICES TO COMPANIES LARGE AND SMALL.
+          <h1>Services</h1>
+          <p class="text-white text-center">
+              <a href="/">Home</a>
+              <span class="mx-2">/</span>
+              <span>Services</span>
           </p>
-          <p><a href="/contact" class="btn-beta btn btn-primary py-3 px-5">Contact</a></p>
         </div>
       </div>
     </div>
