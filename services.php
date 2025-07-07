@@ -15,9 +15,9 @@
         <div class="col-lg-7 mx-auto text-center" data-aos="fade-up">
           <h1>Services</h1>
           <p class="text-white text-center">
-              <a href="/">Home</a>
-              <span class="mx-2">/</span>
-              <span>Services</span>
+            <a href="/">Home</a>
+            <span class="mx-2">/</span>
+            <span>Services</span>
           </p>
         </div>
       </div>
@@ -29,60 +29,60 @@
   <div class="py-5">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 col-lg-4 mb-5">
+        <div class="col-md-6 col-lg-4 mb-5 mx-auto">
           <div class="service-29283">
             <span class="wrap-icon-39293">
               <span class="flaticon-yacht"></span>
             </span>
             <h3 class="py-3">Air Freight</h3>
-            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
-                point to any destination in the world at very competitive rates.</p>
-                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any
+              point to any destination in the world at very competitive rates.</p>
+            <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4 mb-5">
+        <div class="col-md-6 col-lg-4 mb-5 mx-auto">
           <div class="service-29283">
             <span class="wrap-icon-39293">
               <span class="flaticon-shield"></span>
             </span>
             <h3 class="py-3">Charter Services</h3>
-            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
-                point to any destination in the world at very competitive rates.</p>
-                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any
+              point to any destination in the world at very competitive rates.</p>
+            <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4 mb-5">
+        <div class="col-md-6 col-lg-4 mb-5 mx-auto">
           <div class="service-29283">
             <span class="wrap-icon-39293">
               <span class="flaticon-captain"></span>
             </span>
             <h3 class="py-3">Sea Freight</h3>
-            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
-                point to any destination in the world at very competitive rates.</p>
-                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any
+              point to any destination in the world at very competitive rates.</p>
+            <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
 
-        <div class="col-md-6 col-lg-4 mb-5">
+        <div class="col-md-6 col-lg-4 mb-5 mx-auto">
           <div class="service-29283">
             <span class="wrap-icon-39293">
               <span class="flaticon-devices"></span>
             </span>
             <h3 class="py-3">Road Freight </h3>
-            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
-                point to any destination in the world at very competitive rates.</p>
-                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any
+              point to any destination in the world at very competitive rates.</p>
+            <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4 mb-5">
+        <div class="col-md-6 col-lg-4 mb-5 mx-auto">
           <div class="service-29283">
             <span class="wrap-icon-39293">
               <span class="flaticon-badge"></span>
             </span>
             <h3 class="py-3">Pack- aging</h3>
-            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any 
-                point to any destination in the world at very competitive rates.</p>
-                <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
+            <p class="px-3">BETA Logistics offers comprehensive airfreight services that are fast and reliable from any
+              point to any destination in the world at very competitive rates.</p>
+            <p><a href="/service-single" class="btn-beta btn btn-primary py-3 px-5">Read more</a></p>
           </div>
         </div>
       </div>
